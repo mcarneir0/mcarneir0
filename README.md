@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Matheus Carneiro</h1>
 <h3 align="center">Analista de Suporte e Desenvolvedor Full Stack</h3>
 
-- 🌱 Estou aprendendo **Desenvolvimento Web e Banco de Dados**
+🌱 Estou aprendendo **Desenvolvimento Web e Banco de Dados**
 
-- 📫 Entre em contato no email **matheusfeitosa@outlook.com**
+📫 Entre em contato no email **matheusfeitosa@outlook.com**
 
-- 📄 Conheça um pouco sobre mim [https://mcarneir0.github.io](https://mcarneir0.github.io)
+📄 Conheça um pouco sobre mim [https://mcarneir0.github.io](https://mcarneir0.github.io)
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
